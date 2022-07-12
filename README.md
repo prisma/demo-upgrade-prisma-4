@@ -2,6 +2,8 @@
 
 This repository is used in our live stream to show how to easily upgrade to Prisma 4: https://www.youtube.com/watch?v=FSjkBrfaoEY
 
+Slides can be found [here](https://docs.google.com/presentation/d/15crhE56t-B7AuaOJSXGmnXsq4wGU5EPS9Hx1zxd7pXs/edit?usp=sharing).
+
 ```
 ℹ️ Most breaking changes in Prisma 4 are edge cases or easy to address.
 We expect a very smooth upgrade process for the majority of our users.
