@@ -1,4 +1,6 @@
-# demo-upgrade-prisma-4
+# How to upgrade to Prisma 4
+
+This repository is used in our live stream to show how to easily upgrade to Prisma 4: https://www.youtube.com/watch?v=FSjkBrfaoEY
 
 ## How to alternate between Prisma version
 
